@@ -45,7 +45,7 @@ SinisterBuster é um app mobile em **React Native + Expo** para gerenciar sinist
 
 
 # Clone o repositório
-git clone https://github.com/viniciors/Sprint4-mobile.git
+git clone [https://github.com/viniciors/Sprint4-mobile.git]
 cd SinisterBuster
 
 # Instale dependências
